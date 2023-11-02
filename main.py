@@ -1,3 +1,5 @@
+import Problema1
+
 
 edad = 12
 
@@ -23,7 +25,7 @@ de distancia de tipo
 
 lista4 = ["Juan", 45, 1.92, False]
 
-if __name__ == 'main':
+if __name__ == '__main__':bjkxcw
 
     '''
     Cantidad de elementos d ecada lista
@@ -40,3 +42,7 @@ if __name__ == 'main':
     print(lista1)
 
     print(lista1[3])
+
+    print()
+
+    Problema1.sumar_5_enteros()

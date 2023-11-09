@@ -28,7 +28,7 @@ lista4 = ["Juan", 45, 1.92, False]
 if __name__ == '__main__':bjkxcw
 
     '''
-    Cantidad de elementos d ecada lista
+    Cantidad de elementos de cada lista
     '''
     print(len(lista1))
     print(len(lista2))
@@ -46,3 +46,7 @@ if __name__ == '__main__':bjkxcw
     print()
 
     Problema1.sumar_5_enteros()
+
+    print()
+
+    alumnos()
